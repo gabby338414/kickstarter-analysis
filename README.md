@@ -20,10 +20,10 @@ https://github.com/gabby338414/kickstarter-analysis/blob/8e4629aba81453f0506929e
 
 ## Results
 
-- What are two conclusions you can draw about the Outcomes based on Launch Date? There more successful outcomes.
+- What are two conclusions you can draw about the Outcomes based on Launch Date? From May to July they had more successful outcomes. They did not have many live outcomes for the year, there was a major decrease. 
 
-- What can you conclude about the Outcomes based on Goals? The percentage failed and successful were about the same.
+- What can you conclude about the Outcomes based on Goals? At the beginning they reach there goals, it started to decrease as time went on and then they had more percentage failed.
 
-- What are some limitations of this dataset? No really the outcomes were straight forward.
+- What are some limitations of this dataset? There was a lot of information pertaining to this dataset. We could have used more graphs to show different subcategories and their outcomes.
 
 - What are some other possible tables and/or graphs that we could create? A bar graphs and pie charts can also be used to determine certain data.
