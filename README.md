@@ -10,7 +10,7 @@ Performing analysis on Kickstarter data to uncover trends
 
 ### Analysis of Outcomes Based on Launch Date
 
-!https://github.com/gabby338414/kickstarter-analysis/blob/a6fbe7cf882e380f796f53a7ac1233844a34db69/Resources/Outcomes%20Based%20on%20Launch%20Date.png
+![Outcomes](https://github.com/gabby338414/kickstarter-analysis/blob/a6fbe7cf882e380f796f53a7ac1233844a34db69/Resources/Outcomes%20Based%20on%20Launch%20Date.png)
 
 ### Analysis of Outcomes Based on Goals
 
