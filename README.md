@@ -10,11 +10,11 @@ Performing analysis on Kickstarter data to uncover trends
 
 ### Analysis of Outcomes Based on Launch Date
 
-https://github.com/gabby338414/kickstarter-analysis/blob/a6fbe7cf882e380f796f53a7ac1233844a34db69/Resources/Outcomes%20Based%20on%20Launch%20Date.png
+!https://github.com/gabby338414/kickstarter-analysis/blob/a6fbe7cf882e380f796f53a7ac1233844a34db69/Resources/Outcomes%20Based%20on%20Launch%20Date.png
 
 ### Analysis of Outcomes Based on Goals
 
-https://github.com/gabby338414/kickstarter-analysis/blob/8e4629aba81453f0506929e4f3ae99d5f2c6d2c8/Resources/Outcomes%20Based%20on%20Goals.png
+!https://github.com/gabby338414/kickstarter-analysis/blob/8e4629aba81453f0506929e4f3ae99d5f2c6d2c8/Resources/Outcomes%20Based%20on%20Goals.png
 
 ### Challenges and Difficulties Encountered- the Challenges I faced were learning the different formulas in Excel, I have never used any of these functions, we have learned so far. The difficulties where moving back and forth between sheets using the formulas.
 
